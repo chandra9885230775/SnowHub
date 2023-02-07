@@ -1,0 +1,4 @@
+create or replace TABLE NEWSNOWDEMO (
+	NAME VARCHAR(16777216),
+	PHONE NUMBER(38,0)
+);
